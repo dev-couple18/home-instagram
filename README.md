@@ -1,2 +1,2 @@
 # home-instagram
-Nesse pequeno projeto criamo uma tela de inicio do instagram
+Nesse pequeno projeto criamos uma tela  do instagram .
